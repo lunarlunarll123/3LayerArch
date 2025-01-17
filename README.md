@@ -31,3 +31,25 @@ Jinja2==3.1.2
 MarkupSafe==2.1.2
 
 Werkzeug==2.2.3
+
+To run this code, suggest you to use postman to send request.
+
+1. create user:
+http://127.0.0.1:5000/user   
+{
+    "user_name": "aaa",
+    "first_name": "John",
+    "last_name": "Doe"
+}
+
+2. get user:
+http://127.0.0.1:5000/user/1
+
+3. welcome page:
+http://127.0.0.1:5000
+
+
+![image](https://github.com/user-attachments/assets/291e8094-1ed6-4d61-9ca7-aa4f762eacb2)
+![image](https://github.com/user-attachments/assets/79e8ea04-d953-4c81-9d11-b314ce999afe)
+
+
