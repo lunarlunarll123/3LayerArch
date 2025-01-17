@@ -12,8 +12,6 @@ How to run it:
 5.	Check git --version
 6.	Git Clone the Repository
 a.	Create a folder and open the terminal in VS code.
-b.	Run git clone https://github.com/senpay/3_layer_architecture_course.git command in the terminal
-c.	Now the github repository project is cloned into VS code
 7.	Go to relevent path (project folder) cd .\3_layer_architecture_course\
 8.	Install Python Dependencies from requirements.txt by running pip install requirment.txt in terminal.
 9.	Run the main file (main.py)
